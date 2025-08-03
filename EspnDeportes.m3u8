@@ -5,4 +5,5 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
+http://nxtplay.xyz:8080/play/live.php?mac=00:1A:79:C0:C9:D7&stream=180359&extension=ts
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=86181&extension=ts&play_token=MzRTs6Ffvf
