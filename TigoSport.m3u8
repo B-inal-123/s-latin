@@ -6,5 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://iptvtree.net:8080/ISMI/1d55f645/9006
-http://kstv.us:8080/live/tH300gvHff/8606073792/47033.ts
+http://unknown.protv.cc:80/play/live.php?mac=00:1A:79:B0:6B:02&stream=389448&extension=ts&play_token=yh5Fy3a0aa
