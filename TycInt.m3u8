@@ -6,4 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://unknown.protv.cc:80/play/live.php?mac=00:1A:79:B0:6B:02&stream=79284&extension=ts&play_token=rpojRPaQlM
+http://nxtplay.xyz:8080/play/live.php?mac=00:1A:79:C0:C9:D7&stream=624959&extension=ts
