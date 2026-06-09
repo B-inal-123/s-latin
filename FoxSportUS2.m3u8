@@ -5,4 +5,4 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
-http://bgdc.live:25461/nmullen144/73970570/99151
+http://tv.cloudcdn.me:80/live.ts?channelId=132180&uid=15301&deviceMac=00:1A:79:1D:53:3F
